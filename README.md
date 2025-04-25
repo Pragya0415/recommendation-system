@@ -1,5 +1,5 @@
 # Product Recommendation System
-This project explores collaborative filtering to build a personalized recommendation engine — just like the ones used by Netflix, Amazon, and Spotify. Using real user-product interaction data from an e-commerce platform, it predicts what products each customer might like next.
+This project explores collaborative filtering to build a personalized recommendation engine. Using real user-product interaction data from an e-commerce platform, it predicts what products each customer might like next.
 
 The system is trained using the SVD algorithm (matrix factorization) and visualized with simple, clean charts to help communicate how it works and what value it offers.
 
