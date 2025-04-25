@@ -39,7 +39,7 @@ item_id (product)
 rating (set to 1 per transaction)
 
 
-#Key Insights
+# Key Insights
 -Products recommended most often had strong collaborative signals
 
 -Most predicted scores clustered around moderate to high confidence
